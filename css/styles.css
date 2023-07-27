@@ -1,8 +1,3 @@
-/*! modern-normalize v1.0.0 | MIT License | https://github.com/sindresorhus/modern-normalize */
-/**,::after,::before {
-    box-sizing: border-box;
-}*/
-
 :root{
     --text-font-family: 'roboto', sans-serif;
     --color-text-font: #212121;
